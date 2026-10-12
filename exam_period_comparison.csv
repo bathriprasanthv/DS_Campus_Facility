@@ -1,0 +1,3 @@
+exam_period,average_occupancy,median_occupancy,readings,period
+False,38.899317406143346,18.0,4395,Non-exam period
+True,44.77355371900826,23.0,605,Exam period

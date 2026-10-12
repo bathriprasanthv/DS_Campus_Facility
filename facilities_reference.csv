@@ -1,0 +1,21 @@
+facility_id,facility,type,capacity,block
+F001,Main Lecture Hall,Classroom,180,Block A
+F002,Seminar Room 1,Classroom,60,Block A
+F003,Seminar Room 2,Classroom,55,Block A
+F004,Computer Lab 1,Laboratory,45,Block B
+F005,Computer Lab 2,Laboratory,40,Block B
+F006,Electronics Lab,Laboratory,35,Block C
+F007,Physics Lab,Laboratory,30,Block C
+F008,Central Library,Library,220,Block D
+F009,Digital Library,Library,80,Block D
+F010,Auditorium,Common Area,500,Block E
+F011,Cafeteria,Common Area,250,Block E
+F012,Sports Hall,Common Area,150,Block F
+F013,Project Room 1,Project Room,25,Block B
+F014,Project Room 2,Project Room,20,Block B
+F015,Meeting Room,Meeting Room,18,Block A
+F016,Innovation Hub,Project Room,40,Block F
+F017,Drawing Hall,Classroom,70,Block C
+F018,Research Lab,Laboratory,32,Block G
+F019,Medical Room,Support Facility,12,Block E
+F020,Placement Hall,Common Area,120,Block G

@@ -1,0 +1,101 @@
+maintenance_id,facility,date,issue,downtime,status,facility_id,type,capacity,block
+M001,Computer Lab 2,2026-07-11,Projector failure,1.0,Resolved,F005,Laboratory,40,Block B
+M002,Project Room 2,2026-07-16,AC issue,4.0,Resolved,F014,Project Room,20,Block B
+M003,Meeting Room,2026-09-14,Plumbing issue,1.0,Resolved,F015,Meeting Room,18,Block A
+M004,Computer Lab 2,2026-08-13,Projector failure,6.0,Open,F005,Laboratory,40,Block B
+M005,Digital Library,2026-07-08,Computer fault,0.0,In Progress,F009,Library,80,Block D
+M006,Seminar Room 2,2026-08-03,AC issue,2.0,Open,F003,Classroom,55,Block A
+M007,Computer Lab 2,2026-09-15,Computer fault,12.0,Resolved,F005,Laboratory,40,Block B
+M008,Research Lab,2026-08-07,AC issue,3.0,Open,F018,Laboratory,32,Block G
+M009,Cafeteria,2026-07-27,Computer fault,6.0,Resolved,F011,Common Area,250,Block E
+M010,Cafeteria,2026-08-20,AC issue,0.0,Resolved,F011,Common Area,250,Block E
+M011,Meeting Room,2026-09-06,AC issue,8.0,Open,F015,Meeting Room,18,Block A
+M012,Research Lab,2026-08-05,Network outage,2.0,Open,F018,Laboratory,32,Block G
+M013,Meeting Room,2026-09-21,Computer fault,1.0,Resolved,F015,Meeting Room,18,Block A
+M014,Physics Lab,2026-08-12,Projector failure,1.0,In Progress,F007,Laboratory,30,Block C
+M015,Drawing Hall,2026-09-16,Computer fault,2.0,Open,F017,Classroom,70,Block C
+M016,Project Room 2,2026-07-29,AC issue,4.0,Resolved,F014,Project Room,20,Block B
+M017,Central Library,2026-08-19,Unknown issue,2.0,Open,F008,Library,220,Block D
+M018,Placement Hall,2026-07-14,Projector failure,8.0,Resolved,F020,Common Area,120,Block G
+M019,Seminar Room 1,2026-08-05,Computer fault,12.0,Open,F002,Classroom,60,Block A
+M020,Electronics Lab,2026-09-10,AC issue,6.0,Open,F006,Laboratory,35,Block C
+M021,Computer Lab 1,2026-08-02,Network outage,6.0,Open,F004,Laboratory,45,Block B
+M022,Computer Lab 2,2026-08-07,Furniture repair,4.0,In Progress,F005,Laboratory,40,Block B
+M023,Innovation Hub,2026-08-16,Projector failure,2.0,Open,F016,Project Room,40,Block F
+M024,Seminar Room 1,2026-08-18,Network outage,0.0,Open,F002,Classroom,60,Block A
+M025,Digital Library,2026-09-05,AC issue,2.0,Resolved,F009,Library,80,Block D
+M026,Research Lab,2026-08-23,Electrical fault,2.0,Resolved,F018,Laboratory,32,Block G
+M027,Medical Room,2026-07-02,Projector failure,6.0,Resolved,F019,Support Facility,12,Block E
+M028,Medical Room,2026-07-02,Unknown issue,2.0,In Progress,F019,Support Facility,12,Block E
+M029,Project Room 1,2026-08-08,Electrical fault,1.0,In Progress,F013,Project Room,25,Block B
+M030,Cafeteria,2026-07-08,Furniture repair,12.0,Resolved,F011,Common Area,250,Block E
+M031,Main Lecture Hall,2026-07-16,Projector failure,12.0,In Progress,F001,Classroom,180,Block A
+M032,Electronics Lab,2026-09-05,Furniture repair,3.0,Open,F006,Laboratory,35,Block C
+M033,Seminar Room 1,2026-08-21,Furniture repair,1.0,Open,F002,Classroom,60,Block A
+M034,Meeting Room,2026-08-20,Plumbing issue,3.5,Resolved,F015,Meeting Room,18,Block A
+M035,Computer Lab 1,2026-07-07,Furniture repair,12.0,In Progress,F004,Laboratory,45,Block B
+M036,Main Lecture Hall,2026-08-07,Electrical fault,0.0,Resolved,F001,Classroom,180,Block A
+M037,Physics Lab,2026-08-22,Projector failure,6.0,Open,F007,Laboratory,30,Block C
+M038,Physics Lab,2026-09-12,Electrical fault,8.0,In Progress,F007,Laboratory,30,Block C
+M039,Computer Lab 2,2026-08-17,Electrical fault,12.0,Resolved,F005,Laboratory,40,Block B
+M040,Innovation Hub,2026-08-10,Projector failure,1.0,In Progress,F016,Project Room,40,Block F
+M041,Electronics Lab,2026-09-24,Plumbing issue,0.0,In Progress,F006,Laboratory,35,Block C
+M042,Electronics Lab,2026-07-23,Projector failure,0.0,Open,F006,Laboratory,35,Block C
+M043,Central Library,2026-08-05,Network outage,0.0,Resolved,F008,Library,220,Block D
+M044,Drawing Hall,2026-09-09,AC issue,4.0,Open,F017,Classroom,70,Block C
+M045,Seminar Room 1,2026-09-13,AC issue,6.0,In Progress,F002,Classroom,60,Block A
+M046,Innovation Hub,2026-09-25,Furniture repair,3.0,Resolved,F016,Project Room,40,Block F
+M047,Physics Lab,2026-09-18,Furniture repair,8.0,Resolved,F007,Laboratory,30,Block C
+M048,Auditorium,2026-07-23,Plumbing issue,3.0,In Progress,F010,Common Area,500,Block E
+M049,Drawing Hall,2026-09-24,Electrical fault,12.0,Resolved,F017,Classroom,70,Block C
+M050,Drawing Hall,2026-09-02,Furniture repair,8.0,In Progress,F017,Classroom,70,Block C
+M051,Innovation Hub,2026-07-14,Electrical fault,1.0,Resolved,F016,Project Room,40,Block F
+M052,Auditorium,2026-08-16,Furniture repair,3.0,In Progress,F010,Common Area,500,Block E
+M053,Sports Hall,2026-09-15,Unknown issue,1.0,Resolved,F012,Common Area,150,Block F
+M054,Placement Hall,2026-07-14,Projector failure,6.0,Resolved,F020,Common Area,120,Block G
+M055,Computer Lab 2,2026-08-01,Plumbing issue,0.0,Resolved,F005,Laboratory,40,Block B
+M056,Medical Room,2026-08-16,Unknown issue,4.0,Open,F019,Support Facility,12,Block E
+M057,Sports Hall,2026-07-15,Electrical fault,4.0,In Progress,F012,Common Area,150,Block F
+M058,Electronics Lab,2026-09-04,AC issue,8.0,In Progress,F006,Laboratory,35,Block C
+M059,Main Lecture Hall,2026-09-11,Network outage,0.0,In Progress,F001,Classroom,180,Block A
+M060,Seminar Room 1,2026-09-22,Electrical fault,3.0,In Progress,F002,Classroom,60,Block A
+M061,Innovation Hub,2026-07-27,Plumbing issue,4.0,Open,F016,Project Room,40,Block F
+M062,Digital Library,2026-07-23,Network outage,6.0,In Progress,F009,Library,80,Block D
+M063,Sports Hall,2026-08-20,Network outage,12.0,Resolved,F012,Common Area,150,Block F
+M064,Sports Hall,2026-07-21,Network outage,0.0,In Progress,F012,Common Area,150,Block F
+M065,Digital Library,2026-09-13,AC issue,0.0,Resolved,F009,Library,80,Block D
+M066,Physics Lab,2026-07-22,Electrical fault,8.0,Open,F007,Laboratory,30,Block C
+M067,Project Room 1,2026-09-21,Projector failure,6.0,Open,F013,Project Room,25,Block B
+M068,Sports Hall,2026-08-30,Projector failure,3.0,In Progress,F012,Common Area,150,Block F
+M069,Physics Lab,2026-09-17,Projector failure,4.0,Resolved,F007,Laboratory,30,Block C
+M070,Seminar Room 1,2026-07-30,Plumbing issue,12.0,In Progress,F002,Classroom,60,Block A
+M071,Electronics Lab,2026-09-12,Computer fault,1.0,Open,F006,Laboratory,35,Block C
+M072,Medical Room,2026-08-30,Furniture repair,2.0,Open,F019,Support Facility,12,Block E
+M073,Drawing Hall,2026-07-09,Furniture repair,2.0,Resolved,F017,Classroom,70,Block C
+M074,Research Lab,2026-07-01,Furniture repair,8.0,In Progress,F018,Laboratory,32,Block G
+M075,Computer Lab 2,2026-07-21,Plumbing issue,3.0,Open,F005,Laboratory,40,Block B
+M076,Project Room 2,2026-08-30,Electrical fault,0.0,In Progress,F014,Project Room,20,Block B
+M077,Project Room 2,2026-08-06,Computer fault,8.0,Resolved,F014,Project Room,20,Block B
+M078,Meeting Room,2026-07-17,Computer fault,6.0,In Progress,F015,Meeting Room,18,Block A
+M079,Medical Room,2026-07-30,Unknown issue,4.0,Resolved,F019,Support Facility,12,Block E
+M080,Research Lab,2026-08-19,Projector failure,12.0,In Progress,F018,Laboratory,32,Block G
+M081,Computer Lab 1,2026-09-07,Furniture repair,8.0,In Progress,F004,Laboratory,45,Block B
+M082,Main Lecture Hall,2026-08-08,Network outage,2.0,Open,F001,Classroom,180,Block A
+M083,Project Room 1,2026-07-10,Unknown issue,2.0,Resolved,F013,Project Room,25,Block B
+M084,Computer Lab 1,2026-08-16,AC issue,1.0,Open,F004,Laboratory,45,Block B
+M085,Central Library,2026-07-11,Plumbing issue,3.0,In Progress,F008,Library,220,Block D
+M086,Physics Lab,2026-09-16,AC issue,7.0,Open,F007,Laboratory,30,Block C
+M087,Project Room 1,2026-08-23,Network outage,0.0,Resolved,F013,Project Room,25,Block B
+M088,Innovation Hub,2026-09-23,Network outage,12.0,Open,F016,Project Room,40,Block F
+M089,Seminar Room 2,2026-09-21,Computer fault,4.0,In Progress,F003,Classroom,55,Block A
+M090,Computer Lab 2,2026-07-10,Furniture repair,1.0,Open,F005,Laboratory,40,Block B
+M091,Computer Lab 2,2026-09-18,Computer fault,2.0,In Progress,F005,Laboratory,40,Block B
+M092,Electronics Lab,2026-07-13,Computer fault,1.0,Resolved,F006,Laboratory,35,Block C
+M093,Placement Hall,2026-08-10,Computer fault,0.0,Resolved,F020,Common Area,120,Block G
+M094,Computer Lab 2,2026-07-14,Furniture repair,8.0,Resolved,F005,Laboratory,40,Block B
+M095,Research Lab,2026-07-06,Plumbing issue,12.0,Resolved,F018,Laboratory,32,Block G
+M096,Main Lecture Hall,2026-08-06,Projector failure,0.0,Resolved,F001,Classroom,180,Block A
+M097,Sports Hall,2026-07-08,Plumbing issue,3.0,Resolved,F012,Common Area,150,Block F
+M098,Seminar Room 2,2026-08-31,Network outage,3.0,Open,F003,Classroom,55,Block A
+M099,Medical Room,2026-09-02,AC issue,0.0,In Progress,F019,Support Facility,12,Block E
+M100,Computer Lab 2,2026-07-26,Plumbing issue,6.0,In Progress,F005,Laboratory,40,Block B
